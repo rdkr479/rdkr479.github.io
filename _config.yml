@@ -13,7 +13,7 @@
 title: My website
 
 # Your name to show in the footer
-author: Some Person
+author: rdkr479
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,7 +50,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "rdkr479@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
@@ -58,14 +58,14 @@ social-network-links:
   patreon: DeanAttali
   youtube: "@daattali"
   whatsapp: 15551212
-#  medium: yourname
+#  medium: rkdr479
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
-#  xing: yourname
+#  xing: rkdr479
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+#  spotify: rkdr479
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "rdkr479.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
